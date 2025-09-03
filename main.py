@@ -1,4 +1,4 @@
-from SimpleLinearRegression import SimpleLinearRegression
+from Models.SimpleLinearRegression import SimpleLinearRegression
 from sklearn.linear_model import LinearRegression
 import pandas as pd
 import matplotlib.pyplot as plt
